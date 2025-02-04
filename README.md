@@ -1,19 +1,17 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**Yousefa7medmaher/Yousefa7medmaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Yousef Ahmed Maher**, a **Full-Stack Development student** at **SUT**.  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **web development & problem-solving**  
+- 🌱 Learning **React, backend development & software engineering**  
+- 👯 Looking to collaborate on **web & open-source projects**  
+- 🤔 Seeking help with **advanced backend & AI**  
+- 💬 Ask me about **web development, React, C++, and SDLC**  
+- 📫 Reach me at:  
+  - **Email:** [ya1770620@gmail.com](mailto:ya1770620@gmail.com)  
+  - **GitHub:** [github.com/Yousefa7medmaher](https://github.com/Yousefa7medmaher)  
+  - **LinkedIn:** [linkedin.com/in/yousef-ahmed-maher-272275279](https://www.linkedin.com/in/yousef-ahmed-maher-272275279)  
 
--👋 Hi, I’m Yousef Ahmed Maher, a Full-Stack Development student at SUT.
-
--🔭 Currently working on web development & problem-solving
--🌱 Learning React, backend development & software engineering
--👯 Looking to collaborate on web & open-source projects
--🤔 Seeking help with advanced backend & AI
--💬 Ask me about web dev, React, C++ & SDLC
--📫 Reach me: ya1770620@gmail.com | GitHub | LinkedIn
--->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079882766678) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yousef-ahmed-maher-272275279/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yousef ahmed Maher) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Live-Sky8448/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23713176/goo-ahmed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@GooAhmed11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ya1770620@gmail.com) 
