@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi there 👋<br>I’m Yousef Ahmed Maher, a Full-Stack Development student at SUT.<br><br>🔭 Currently working on web development & problem-solving<br>🌱 Learning React, backend development & software engineering<br>👯 Looking to collaborate on web & open-source projects<br>🤔 Seeking help with advanced backend & AI<br>💬 Ask me about web development, React, C++, and SDLC
+### Hi there! 👋 I'm Yousef Ahmed Maher  
+🚀 Passionate **Full-Stack Developer** | 🎓 Computer Science Student @ **SUT**  
 
+## 🌟 What I Do:
+🔹 **Currently working on:** Web development, problem-solving & competitive programming  
+🌱 **Learning:** React, backend development (Node.js, PHP, SQL), and software engineering principles  
+👨‍💻 **Open to collaboration:** Web projects, open-source contributions & AI-driven applications  
+🤝 **Looking for mentorship:** Advanced backend development, AI & system design  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yousef-ahmed-maher-272275279) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Live-Sky8448/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@GooAhmed11) 
