@@ -1,6 +1,6 @@
 <!-- 👋 Welcome Section with Enhanced Styling -->
 <h2 align="center" style="color:#38B2AC; font-family:'Fira Code', monospace;">
-  👋 Hi, I'm <span style="color:#0db7ed;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> passionate about <span style="color:#FF6C37;">DevOps</span> and <span style="color:#FF69B4;">Backend Development</span>!
+  👋 Hi, I'm <span style="color:white;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> passionate about <span style="color:#FF6C37;">DevOps</span> and <span style="color:#FF69B4;">Backend Development</span>!
 </h2>
 
 <p align="center">
