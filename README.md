@@ -1,21 +1,29 @@
 <!-- 👋 Welcome Section with Enhanced Styling -->
 <h2 align="center" style="color:#38B2AC; font-family:'Fira Code', monospace;">
-  👋 Hi, I'm <span style="color:#0db7ed;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> passionate about <span style="color:#FF6C37;">DevOps</span> and <span style="color:#FF69B4;">Backend Development</span>!
+  👋 Hi, I'm <span style="color:#0db7ed;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> focused on <span style="color:#FF6C37;">DevOps</span> and <span style="color:#00CED1;">Linux</span>!
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Youssef+Ahmed+Maher;Computer+Science+Student;Passionate+about+Programming+and+DevOps!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG - Youssef Ahmed Maher">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Youssef+Ahmed+Maher;Computer+Science+Student;Focused+on+DevOps+and+Linux+(RHCSA)!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG - Youssef Ahmed Maher">
 </p> 
 
 # 💫 About Me:
 ### Hi there! 👋 I'm Yousef Ahmed Maher  
-🚀 Passionate **Full-Stack Developer** | 🎓 Computer Science Student @ **SUT**  
+🎓 Computer Science Student @ **SUT**  
+🔧 Currently focused on becoming a **DevOps Engineer**
 
-## 🌟 What I Do:
-🔹 **Currently working on:** Web development, problem-solving & competitive programming  
-🌱 **Learning:** React, backend development (Node.js, PHP, SQL), and software engineering principles  
-👨‍💻 **Open to collaboration:** Web projects, open-source contributions & AI-driven applications  
-🤝 **Looking for mentorship:** Advanced backend development, AI & system design  
+## 🌟 What I'm Doing Now:
+🌱 **Learning and practicing:**  
+- 🐧 Linux system administration (Preparing for **RHCSA**)  
+- ⚙️ DevOps tools & workflows (Docker, CI/CD, automation, shell scripting)  
+- 📦 Containerization and orchestration basics  
+
+🧠 **Background:**  
+- Familiar with web development (Frontend & Backend) 
+
+🤝 **Open to:**  
+- Collaboration in infrastructure, automation & DevOps projects  
+- Learning opportunities & internships in DevOps/Cloud/Linux environments
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558) 
