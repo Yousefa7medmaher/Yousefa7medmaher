@@ -1,29 +1,31 @@
 <!-- 👋 Welcome Section with Enhanced Styling -->
 <h2 align="center" style="color:#38B2AC; font-family:'Fira Code', monospace;">
-  👋 Hi, I'm <span style="color:#0db7ed;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> focused on <span style="color:#FF6C37;">DevOps</span> and <span style="color:#00CED1;">Linux</span>!
+  👋 Hi, I'm <span style="color:#0db7ed;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> focused on <span style="color:#FF6C37;">DevOps</span>, <span style="color:#00CED1;">Linux</span>, and <span style="color:#ADFF2F;">Backend Engineering (Express.js)</span>!
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Youssef+Ahmed+Maher;Computer+Science+Student;Focused+on+DevOps+and+Linux+(RHCSA)!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG - Youssef Ahmed Maher">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Youssef+Ahmed+Maher;Computer+Science+Student;Focused+on+DevOps,+Linux,+Backend(Express.js)!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG - Youssef Ahmed Maher">
 </p> 
 
 # 💫 About Me:
 ### Hi there! 👋 I'm Yousef Ahmed Maher  
 🎓 Computer Science Student @ **SUT**  
-🔧 Currently focused on becoming a **DevOps Engineer**
+🔧 Currently focused on becoming a **DevOps Engineer** and **Backend Developer (Node.js & Express.js)**
 
 ## 🌟 What I'm Doing Now:
 🌱 **Learning and practicing:**  
 - 🐧 Linux system administration (Preparing for **RHCSA**)  
 - ⚙️ DevOps tools & workflows (Docker, CI/CD, automation, shell scripting)  
 - 📦 Containerization and orchestration basics  
+- 🛠️ Building backend applications using **Express.js** and **MongoDB**
 
 🧠 **Background:**  
-- Familiar with web development (Frontend & Backend) 
+- Familiar with web development (Frontend & Backend)  
+- Developed projects using **Node.js**, **Express.js**, and **RESTful APIs**
 
 🤝 **Open to:**  
-- Collaboration in infrastructure, automation & DevOps projects  
-- Learning opportunities & internships in DevOps/Cloud/Linux environments
+- Collaboration in infrastructure, automation, backend & DevOps projects  
+- Learning opportunities & internships in DevOps/Cloud/Linux/backend environments
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558) 
