@@ -43,9 +43,7 @@
   <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" alt="Discord" />
   </a>
-  <a href="https://reddit.com/user/Live-Sky8448" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/reddit.svg" width="48" height="48" alt="Reddit" />
-  </a>
+   
   <a href="https://youtube.com/@GooAhmed11" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48" height="48" alt="YouTube" />
   </a>
