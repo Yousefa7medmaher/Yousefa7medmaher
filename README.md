@@ -1,81 +1,136 @@
-<!-- 👋 Welcome Section with Enhanced Styling -->
-<h2 align="center" style="color:#38B2AC; font-family:'Fira Code', monospace;">
-  👋 Hi, I'm <span style="color:#0db7ed;">Yousef Ahmed</span> – a <span style="color:#FFD700;">Computer Science Student</span> focused on <span style="color:#FF6C37;">DevOps</span>, <span style="color:#00CED1;">Linux</span>, and <span style="color:#ADFF2F;">Backend Engineering (Express.js)</span>!
-</h2>
+# 👋 Hi, I'm Yousef Ahmed
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Youssef+Ahmed+Maher;Computer+Science+Student;Focused+on+DevOps,+Linux,+Backend(Express.js)!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG - Youssef Ahmed Maher">
-</p> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yousef%20Ahmed%20Maher&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+SUT;DevOps+%26+Backend+Engineer;Linux+Enthusiast;Express.js+%26+NestJS+Developer;RHCSA+Preparation;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000&color=38B2AC" alt="Typing SVG">
+</div>
 
-# 💫 About Me:
-### Hi there! 👋 I'm Yousef Ahmed Maher  
-🎓 Computer Science Student @ **SUT**  
-🔧 Currently focused on becoming a **DevOps Engineer** and **Backend Developer (Node.js & Express.js and NestJs)**
+<br>
 
-## 🌟 What I'm Doing Now:
-🌱 **Learning and practicing:**  
-- 🐧 Linux system administration (Preparing for **RHCSA**)  
-- ⚙️ DevOps tools & workflows (Docker, CI/CD, automation, shell scripting)  
-- 📦 Containerization and orchestration basics  
-- 🛠️ Building backend applications using **Express.js** and **MongoDB**
+## 🚀 About Me
 
-🧠 **Background:**  
-- Familiar with web development (Frontend & Backend)  
-- Developed projects using **Node.js**, **Express.js**, and **RESTful APIs**
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🤝 **Open to:**  
-- Collaboration in infrastructure, automation, backend & DevOps projects  
-- Learning opportunities & internships in DevOps/Cloud/Linux/backend environments
+🎓 **Computer Science Student** at **SUT**  
+🔧 **Aspiring DevOps Engineer** & **Backend Developer**  
+🐧 **Linux System Administrator** (RHCSA Preparation)  
+⚙️ **Automation & Infrastructure Enthusiast**  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yousef-ahmed-maher-272275279) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Live-Sky8448/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@GooAhmed11) 
+### 🌟 Current Focus:
+- 🛠️ **DevOps Tools**: Docker, CI/CD, Shell Scripting, Automation
+- 🖥️ **Linux Administration**: Red Hat Enterprise Linux, CentOS
+- 🌐 **Backend Development**: Node.js, Express.js, NestJS, MongoDB
+- 📦 **Containerization**: Docker, Container Orchestration
+- ☁️ **Cloud Technologies**: Infrastructure as Code, Monitoring
 
-# 💻 Tech Stack
+### 🎯 Goals:
+- 📜 **RHCSA Certification**
+- ☁️ **AWS/Azure Cloud Certifications**
+- 🚀 **Kubernetes & Microservices**
+- 🔄 **Advanced CI/CD Pipelines**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br clear="right"/>
 
-# 💻 Frameworks & Libraries
+---
 
-![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+## 🌐 Connect With Me
 
+<div align="center">
+  <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
+  </a>
+  <a href="https://reddit.com/user/Live-Sky8448">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500" alt="Reddit"/>
+  </a>
+  <a href="https://youtube.com/@GooAhmed11">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  </a>
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+---
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 💻 Tech Stack & Tools
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![RedHat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,html,css" />
+
+### Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,vue,flutter,tailwind,vite" />
+
+### Databases & Analytics
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,anaconda" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,figma" />
+
+### Operating Systems & Infrastructure
+<img src="https://skillicons.dev/icons?i=linux,redhat" />
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YousefAhmed92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YousefAhmed92&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAhmed92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YousefAhmed92&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefAhmed92&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefAhmed92/YousefAhmed92/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefAhmed92/YousefAhmed92/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YousefAhmed92/YousefAhmed92/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🌱 Always learning something new in the DevOps ecosystem
+- 🐧 Linux enthusiast who loves terminal and command-line tools
+- 🚀 Passionate about automation and infrastructure as code
+- 📚 Currently preparing for RHCSA certification
+- 🎯 Goal: To become a proficient DevOps engineer and cloud architect
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=YousefAhmed92&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
