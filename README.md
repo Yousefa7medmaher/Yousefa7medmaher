@@ -61,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,html,css" />
 
 ### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,vue,flutter,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,vite" />
 
 ### Databases & Analytics
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,anaconda" />
@@ -72,9 +72,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,figma" />
 
 ### Operating Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,redhat" />
-<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/>
-
+<img src="https://skillicons.dev/icons?i=linux,redhat,CentOS" />
 </div>
 
 
