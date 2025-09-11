@@ -38,16 +38,16 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/channels/1337883172515483788/1337883174734401558">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
   </a>
   <a href="https://reddit.com/user/Live-Sky8448">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/>
   </a>
   <a href="https://youtube.com/@GooAhmed11">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
   </a>
 </div>
 
