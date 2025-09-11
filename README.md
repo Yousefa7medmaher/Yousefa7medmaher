@@ -77,45 +77,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YousefAhmed92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YousefAhmed92&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAhmed92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YousefAhmed92&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefAhmed92&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefAhmed92/YousefAhmed92/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefAhmed92/YousefAhmed92/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YousefAhmed92/YousefAhmed92/output/github-snake.svg" />
-  </picture>
-</div>
-
----
 
 ## 💡 Fun Facts
 
