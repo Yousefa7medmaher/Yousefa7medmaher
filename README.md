@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Yousef Ahmed
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yousef%20Ahmed%20Maher&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=Yousef%20Ahmed%20Maher&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&theme=dark" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+SUT;DevOps+%26+Backend+Engineer;Linux+Enthusiast;Express.js+%26+NestJS+Developer;RHCSA+Preparation;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000&color=38B2AC" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+SUT;DevOps+%26+Backend+Engineer;Linux+Enthusiast;NestJS+%26+Redis+Developer;RHCSA+Preparation;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=38B2AC&background=0D1117&vCenter=true" alt="Typing SVG">
 </div>
 
 <br>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="left">
+  <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 15px; margin-left: 20px;">
 
 🎓 **Computer Science Student** at **SUT**  
 🔧 **Aspiring DevOps Engineer** & **Backend Developer**  
@@ -20,7 +21,7 @@
 ### 🌟 Current Focus:
 - 🛠️ **DevOps Tools**: Docker, CI/CD, Shell Scripting, Automation
 - 🖥️ **Linux Administration**: Red Hat Enterprise Linux, CentOS
-- 🌐 **Backend Development**: Node.js, Express.js, NestJS, MongoDB
+- 🌐 **Backend Development**: NestJS, Node.js, Express.js, Redis
 - 📦 **Containerization**: Docker, Container Orchestration
 - ☁️ **Cloud Technologies**: Infrastructure as Code, Monitoring
 
@@ -29,30 +30,44 @@
 - ☁️ **AWS/GCP Cloud Certifications**
 - 🚀 **Kubernetes & Docker & Microservices**
 - 🔄 **Advanced CI/CD Pipelines**
+</div>
 
-<br clear="right"/>
+<br clear="both"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" alt="Discord" />
-  </a>
-   
-  <a href="https://youtube.com/@GooAhmed11" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48" height="48" alt="YouTube" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48" height="48" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48" height="48" alt="Instagram" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtube.com/@GooAhmed11" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -63,56 +78,55 @@
 
 ### 🔤 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,html,css&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,html,css&theme=dark&perline=9" alt="Programming Languages"/>
 </p>
 
 ### ⚡ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs,react,vite&theme=dark" alt="Frameworks & Libraries"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs,react,vite&theme=dark&perline=6" alt="Frameworks & Libraries"/>
 </p>
 
-### 🗄️ Databases & Analytics
+### 🗄️ Databases & Caching
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sql&theme=dark" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark&perline=4" alt="Databases & Caching"/>
+</p>
 
 ### 🔧 DevOps & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,figma,vscode&theme=dark" alt="DevOps & Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,figma,vscode&theme=dark&perline=8" alt="DevOps & Tools"/>
 </p>
 
 ### 🐧 Operating Systems & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,bash&theme=dark" alt="Operating Systems"/>
+  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,nginx&theme=dark&perline=4" alt="Operating Systems"/>
 </p>
 
 ### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,nginx&theme=dark" alt="Cloud & Deployment"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&theme=dark&perline=4" alt="Cloud & Deployment"/>
 </p>
 
 </div>
 
----
- 
 
-## 💡 Fun Facts
-
-- 🌱 Always learning something new in the DevOps ecosystem
-- 🐧 Linux enthusiast who loves terminal and command-line tools  
-- 🚀 Passionate about automation and infrastructure as code
-- 📚 Currently preparing for RHCSA certification
-- 🎯 Goal: To become a proficient DevOps engineer and cloud architect
-- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed!
 
 ---
 
- 
+
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer&theme=dark" width="100%"/>
   
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>💫 "The best error message is the one that never shows up." - Thomas Fuchs</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=YousefAhmed92&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=YousefAhmed92&style=for-the-badge&color=38B2AC&labelColor=0D1117" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/YousefAhmed92?style=for-the-badge&color=38B2AC&labelColor=0D1117" alt="Followers"/>
+  </div>
   
-  <p><em>⭐ From <a href="https://github.com/YousefAhmed92">YousefAhmed92</a> with ❤️</em></p>
+  <br>
+  
+  <p><em>⭐ From <a href="https://github.com/YousefAhmed92">YousefAhmed92</a> with ❤️ • Built with NestJS & Redis</em></p>
 </div>
