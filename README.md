@@ -10,8 +10,7 @@
 # 💫 About Me:
 ### Hi there! 👋 I'm Yousef Ahmed Maher  
 🎓 Computer Science Student @ **SUT**  
-🔧 Currently focused on becoming a **DevOps Engineer** and **Backend Developer (Node.js & Express.jsand ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-)**
+🔧 Currently focused on becoming a **DevOps Engineer** and **Backend Developer (Node.js & Express.js and NestJs)**
 
 ## 🌟 What I'm Doing Now:
 🌱 **Learning and practicing:**  
