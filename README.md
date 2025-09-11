@@ -82,8 +82,7 @@
 
 ### 🐧 Operating Systems & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,ubuntu,bash&theme=dark" alt="Operating Systems"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=centos&logoColor=white" alt="CentOS"/>
+  <img src="https://skillicons.dev/icons?i=linux,redhat,bash&theme=dark" alt="Operating Systems"/>
 </p>
 
 ### ☁️ Cloud & Deployment
