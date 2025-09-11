@@ -36,20 +36,21 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://discord.com/channels/1337883172515483788/1337883174734401558">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
+  <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" width="40" height="40"/>
   </a>
   <a href="https://reddit.com/user/Live-Sky8448">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/>
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" width="40" height="40"/>
   </a>
   <a href="https://youtube.com/@GooAhmed11">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40"/>
   </a>
 </div>
+
 
 ---
 
