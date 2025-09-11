@@ -69,11 +69,7 @@
 
 ### 🗄️ Databases & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="Databases"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=dark" alt="Databases"/> 
 
 ### 🔧 DevOps & Development Tools
 <p>
