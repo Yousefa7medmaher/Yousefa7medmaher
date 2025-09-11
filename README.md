@@ -110,18 +110,4 @@
 
 
  
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer&theme=dark" width="100%"/>
-  
-  <h3>💫 "The best error message is the one that never shows up." - Thomas Fuchs</h3>
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=YousefAhmed92&style=for-the-badge&color=38B2AC&labelColor=0D1117" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/YousefAhmed92?style=for-the-badge&color=38B2AC&labelColor=0D1117" alt="Followers"/>
-  </div>
-  
-  <br>
-  
-  <p><em>⭐ From <a href="https://github.com/YousefAhmed92">YousefAhmed92</a> with ❤️ • Built with NestJS & Redis</em></p>
-</div>
+ 
