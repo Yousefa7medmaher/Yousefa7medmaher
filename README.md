@@ -36,21 +36,26 @@
 
 ## 🌐 Connect With Me
 
-<div align="center" style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40"/>
+<div align="center">
+  <a href="https://linkedin.com/in/yousef-ahmed-maher-272275279" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" width="40" height="40"/>
+  <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" alt="Discord" />
   </a>
-  <a href="https://reddit.com/user/Live-Sky8448">
-    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" width="40" height="40"/>
+  <a href="https://reddit.com/user/Live-Sky8448" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/reddit.svg" width="48" height="48" alt="Reddit" />
   </a>
-  <a href="https://youtube.com/@GooAhmed11">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" width="40" height="40"/>
+  <a href="https://youtube.com/@GooAhmed11" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48" height="48" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="48" height="48" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48" height="48" alt="Instagram" />
   </a>
 </div>
-
 
 ---
 
