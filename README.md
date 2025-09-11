@@ -69,7 +69,7 @@
 
 ### 🗄️ Databases & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=dark" alt="Databases"/> 
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sql&theme=dark" alt="Databases"/>
 
 ### 🔧 DevOps & Development Tools
 <p>
