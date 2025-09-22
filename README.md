@@ -42,12 +42,12 @@
   <table>
     <tr>
       <td align="center">
-        <a href="www.linkedin.com/in/yousef-ahmed-maher-amin-272275279" target="_blank">
+        <a href="https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://discord.gg/https://discord.com/channels/1337883172515483788/1337883174734401558" target="_blank">
+        <a href="https://discord.gg/1337883172515483788" target="_blank">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" height="40"/>
         </a>
       </td>
@@ -69,6 +69,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
