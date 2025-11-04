@@ -84,7 +84,7 @@
 
 ### ⚡ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs,react,vite&theme=dark&perline=6" alt="Frameworks & Libraries"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark&perline=6" alt="Frameworks & Libraries"/>
 </p>
 
 ### 🗄️ Databases & Caching
