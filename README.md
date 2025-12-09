@@ -1,141 +1,117 @@
 # 👋 Hi, I'm Yousef Ahmed
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=DevOps%20Student&fontSize=50&fontColor=00D9FF&animation=twinkling&fontAlignY=35&desc=Building%20Infrastructure%20•%20Automating%20Everything&descAlignY=55&descSize=18" width="100%"/>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=200&section=header&text=Yousef%20Ahmed%20Maher&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&theme=dark" width="100%"/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=🚀+DevOps+Student+%26+Engineer;🐳+Docker+%7C+Kubernetes+Enthusiast;🐧+Linux+System+Administrator;⚡+Automation+%26+CI%2FCD;📜+RHCSA+Candidate)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+SUT;DevOps+%26+Backend+Engineer;Linux+Enthusiast;NestJS+%26+Redis+Developer;RHCSA+Preparation;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=38B2AC&background=0D1117&vCenter=true" alt="Typing SVG">
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎓 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```yaml
-👨‍🎓 education: Computer Science - 3rd Year
-🏫 university: SUT
-💼 role: DevOps Student & Engineer
-🎯 focus: Infrastructure & Automation
-🌟 passion: Linux, Containers, Backend
-```
 
 <br>
 
-🐧 **Linux System Administrator** (RHCSA Prep)  
-🐳 **Container Orchestration** - Docker & Kubernetes  
-⚙️ **Backend Development** - NestJS, Express  
-🔧 **Infrastructure Automation**  
-📜 **Scripting** - Bash & Python
+## 🚀 About Me
+
+<div align="left">
+  <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 15px; margin-left: 20px;">
+
+🎓 **Computer Science Student** at **SUT**  
+🔧 **Aspiring DevOps Engineer** & **Backend Developer**  
+🐧 **Linux System Administrator** (RHCSA Preparation)  
+⚙️ **Automation & Infrastructure Enthusiast**  
+
+### 🌟 Current Focus:
+- 🛠️ **DevOps Tools**: Docker, CI/CD, Shell Scripting, Automation
+- 🖥️ **Linux Administration**: Red Hat Enterprise Linux, CentOS
+- 🌐 **Backend Development**: NestJS, Node.js, Express.js, Redis
+- 📦 **Containerization**: Docker, Container Orchestration
+- ☁️ **Cloud Technologies**: Infrastructure as Code, Monitoring
+
+### 🎯 Goals:
+- 📜 **RHCSA Certification**
+- ☁️ **AWS/GCP Cloud Certifications**
+- 🚀 **Kubernetes & Docker & Microservices**
+- 🔄 **Advanced CI/CD Pipelines**
+</div>
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🐳 Containerization & Orchestration
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Containers" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-</p>
-
-### 🐧 Linux & System Administration
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,bash&theme=dark" alt="Linux" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python&theme=dark" alt="Backend" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-</p>
-
-### 🗄️ Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="Databases" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-</p>
-
-### 🔧 DevOps Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,vscode&theme=dark" alt="Tools" height="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎯 Currently Working On
-
-<div align="center">
-
-| 🚀 Focus Area | 📊 Status | ⭐ Priority |
-|:-------------|:---------:|:----------:|
-| 📜 **RHCSA Certification** | 🔥 In Progress | ⭐⭐⭐⭐⭐ |
-| 🐳 **Docker & Kubernetes** | 📚 Learning | ⭐⭐⭐⭐⭐ |
-| 🔧 **CI/CD Pipelines** | 🛠️ Building | ⭐⭐⭐⭐ |
-| ⚡ **Bash & Python Automation** | 💻 Practicing | ⭐⭐⭐⭐ |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="35"/>
-</a>
-<a href="https://discord.gg/1337883172515483788">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" height="35"/>
-</a>
-<a href="https://youtube.com/@GooAhmed11">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" height="35"/>
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discord.gg/1337883172515483788" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://youtube.com/@GooAhmed11" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-### 💭 DevOps Philosophy
+### 🔤 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,js,ts,python,html,css&theme=dark&perline=9" alt="Programming Languages"/>
+</p>
 
-```bash
-#!/bin/bash
-# Space-themed automation 🚀
+### ⚡ Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark&perline=6" alt="Frameworks & Libraries"/>
+</p>
 
-while [ "$learning" = "infinite" ]; do
-    echo "🐧 Master Linux Systems"
-    echo "🐳 Containerize Everything"
-    echo "⚡ Automate All Tasks"
-    echo "🚀 Deploy to Production"
-    sleep 0 # Never stop learning
-done
-```
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark&perline=4" alt="Databases & Caching"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+### 🔧 DevOps & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,figma,vscode&theme=dark&perline=8" alt="DevOps & Tools"/>
+</p>
 
-**⚡ "Automate, Deploy, Repeat" ⚡**
+### 🐧 Operating Systems & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,nginx&theme=dark&perline=4" alt="Operating Systems"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=VISITORS)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&theme=dark&perline=4" alt="Cloud & Deployment"/>
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=footer&theme=dark" width="100%"/>
+</div>
+ 
+ 
