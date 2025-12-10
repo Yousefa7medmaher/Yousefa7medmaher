@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=200&section=header&text=Yousef%20Ahmed%20Maher&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&theme=dark" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+SUT;DevOps+%26+Backend+Engineer;Linux+Enthusiast+%F0%9F%90%A7;NestJS+%26+Redis+Developer;RHCSA+Preparation+%F0%9F%8E%AF;Always+Learning+New+Technologies!&font=Red+Hat+Display&center=true&width=700&height=60&duration=3000&pause=1000&color=EE0000&background=000000&vCenter=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+%40+SUT;DevOps+%26+Backend+Engineer;Linux+Enthusiast+🐧;NestJS+%26+Redis+Developer;RHCSA+Preparation+🎓;Always+Learning+New+Technologies!&font=Red+Hat+Display&center=true&width=700&height=60&duration=3000&pause=1000&color=EE0000&background=0D0D0D&vCenter=true&weight=700" alt="Typing SVG">
 </div>
 
 <br>
