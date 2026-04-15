@@ -37,8 +37,6 @@ passion: Automate everything. Break nothing. Ship fast.
   <a href="#"><img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,githubactions,docker,kubernetes,aws,terraform,postgresql,mongodb&theme=dark&perline=12" alt="Tech Stack"/></a>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=120&section=footer&theme=dark" width="100%"/>
 </div>
