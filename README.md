@@ -15,8 +15,7 @@
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=58A6FF)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat&logo=discord&logoColor=5865F2)](https://discord.gg/1337883172515483788)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat&logo=youtube&logoColor=FF0000)](https://youtube.com/@GooAhmed11)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@JooAhmeddev001)
 
 </div>
 
