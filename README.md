@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Yousef%20Ahmed%20Maher&fontSize=42&fontColor=fff&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d,30363d,58A6FF&height=160&section=header&text=Yousef%20Ahmed%20Maher&fontSize=42&fontColor=58A6FF&fontAlignY=35&desc=DevOps%20Engineer&descSize=16&descFontColor=8b949e&descAlignY=58" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-**Computer Science Student & Aspiring DevOps Engineer · SUT**
+**DevOps Engineer · Elswedy Polytechnic · Egypt**
 
-![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=0C447C)
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=0C447C)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0C447C)
-![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=0C447C)
-![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=0C447C)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=58A6FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=58A6FF)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat&logo=terraform&logoColor=58A6FF)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=58A6FF)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/1337883172515483788)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@GooAhmed11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat&logo=discord&logoColor=5865F2)](https://discord.gg/1337883172515483788)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat&logo=youtube&logoColor=FF0000)](https://youtube.com/@GooAhmed11)
 
 </div>
 
@@ -25,11 +25,12 @@
 ## About
 
 ```yaml
-name:     Yousef Ahmed Maher
-role:     DevOps Engineer in Progress
-focus:    [Linux, Containers, CI/CD, Cloud, IaC]
-learning: [Ansible, Advanced Kubernetes]
-motto:    "Automate everything. Break nothing. Ship fast."
+name:       Yousef Ahmed Maher
+role:       DevOps Engineer
+education:  Elswedy Polytechnic · Egypt
+focus:      [Linux, Containers, CI/CD, Cloud, IaC]
+learning:   [Ansible, Advanced Kubernetes]
+motto:      "Automate everything. Break nothing. Ship fast."
 ```
 
 ---
@@ -46,4 +47,4 @@ motto:    "Automate everything. Break nothing. Ship fast."
   <sub>automate everything · break nothing · ship fast</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d,30363d,58A6FF&height=100&section=footer" width="100%"/>
