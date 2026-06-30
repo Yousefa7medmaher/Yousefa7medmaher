@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d,30363d,58A6FF&height=160&section=header&text=Yousef%20Ahmed%20Maher&fontSize=42&fontColor=58A6FF&fontAlignY=35&desc=DevOps%20Engineer&descSize=16&descFontColor=8b949e&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d,30363d,58A6FF&height=160&section=header&text=Yousef%20Ahmed%20Maher&fontSize=42&fontColor=58A6FF&fontAlignY=35&desc=DevOps%20Engineer%20|%20AWS%20Certified%20Cloud%20Practitioner&descSize=16&descFontColor=8b949e&descAlignY=58" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-**DevOps Engineer · Elswedy Polytechnic · Egypt**
+**DevOps Engineer · AWS Certified Cloud Practitioner · Elswedy Polytechnic · Egypt**
 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=58A6FF)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=58A6FF)
@@ -26,11 +27,18 @@
 ```yaml
 name:       Yousef Ahmed Maher
 role:       DevOps Engineer
+certified:  AWS Certified Cloud Practitioner (CLF-C02)
 education:  Elswedy Polytechnic · Egypt
-focus:      [Linux, Containers, CI/CD, Cloud, IaC]
+focus:      [Linux, Containers, CI/CD, AWS, Cloud, IaC]
 learning:   [Ansible, Advanced Kubernetes]
 motto:      "Automate everything. Break nothing. Ship fast."
 ```
+
+---
+
+## Certifications
+
+🏅 **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ---
 
