@@ -65,9 +65,9 @@ Check my pinned repositories below for contributions and personal projects.
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYousefa7medmaher&style=flat&logo=github)
+![Public Repos](https://img.shields.io/badge/Public_Repos-REPLACE_COUNT-58A6FF?style=flat&logo=github)
 ![Followers](https://img.shields.io/github/followers/Yousefa7medmaher?style=flat&color=58A6FF&label=Followers&logo=github)
-![Stars](https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYousefa7medmaher&style=flat&logo=github)
+![Public Gists](https://img.shields.io/badge/Public_Gists-REPLACE_COUNT-58A6FF?style=flat&logo=github)
 
 </div>
 
@@ -80,7 +80,7 @@ Check my pinned repositories below for contributions and personal projects.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousefa7medmaher&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="top languages" height="165"/>
 </div>
 
-> ℹ️ The stats card above (Stars/Commits/PRs/**Issues**) pulls live from GitHub's API through the free public `github-readme-stats` service — it occasionally shows a broken "github stats" text link when that shared service is rate-limited, not because of anything wrong in your README. The badges above it (Repos/Followers/Gists) hit GitHub's API directly through shields.io and don't share that limit, so they stay up even when the stats card is down.
+> ℹ️ The stats card above (Stars/Commits/PRs/**Issues**) pulls live from GitHub's API through the free public `github-readme-stats` service, which can be temporarily rate-limited. The **Followers** badge is a dedicated shields.io/GitHub endpoint, so it updates live and reliably. **Public Repos** and **Public Gists** are static badges — GitHub's raw API (`api.github.com`) is too aggressively rate-limited for a live badge to stay up consistently, so instead just swap `REPLACE_COUNT` for your current numbers (visible on your profile page) whenever they change.
 
 ---
 
