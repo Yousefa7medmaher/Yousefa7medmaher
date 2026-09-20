@@ -74,6 +74,7 @@ Check my pinned repositories below for contributions and personal projects.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yousefa7medmaher&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" alt="github stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak stats" height="180"/>
 </div>
 
 
