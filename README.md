@@ -71,18 +71,9 @@ Check my pinned repositories below for contributions and personal projects.
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousefa7medmaher&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" alt="github stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak stats" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousefa7medmaher&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="top languages" height="165"/>
-</div>
 
-> ℹ️ The stats card above (Stars/Commits/PRs/**Issues**) pulls live from GitHub's API through the free public `github-readme-stats` service, which can be temporarily rate-limited. The **Followers** badge is a dedicated shields.io/GitHub endpoint, so it updates live and reliably. **Public Repos** and **Public Gists** are static badges — GitHub's raw API (`api.github.com`) is too aggressively rate-limited for a live badge to stay up consistently, so instead just swap `REPLACE_COUNT` for your current numbers (visible on your profile page) whenever they change.
 
----
 
 <div align="center">
   <sub>automate everything · break nothing · ship fast</sub>
