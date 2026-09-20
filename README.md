@@ -64,9 +64,23 @@ Check my pinned repositories below for contributions and personal projects.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousefa7medmaher&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak stats" height="165"/>
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYousefa7medmaher&style=flat&logo=github)
+![Followers](https://img.shields.io/github/followers/Yousefa7medmaher?style=flat&color=58A6FF&label=Followers&logo=github)
+![Stars](https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYousefa7medmaher&style=flat&logo=github)
+
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousefa7medmaher&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" alt="github stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak stats" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousefa7medmaher&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="top languages" height="165"/>
+</div>
+
+> ℹ️ The stats card above (Stars/Commits/PRs/**Issues**) pulls live from GitHub's API through the free public `github-readme-stats` service — it occasionally shows a broken "github stats" text link when that shared service is rate-limited, not because of anything wrong in your README. The badges above it (Repos/Followers/Gists) hit GitHub's API directly through shields.io and don't share that limit, so they stay up even when the stats card is down.
 
 ---
 
