@@ -63,12 +63,7 @@ Check my pinned repositories below for contributions and personal projects.
 
 ## GitHub Stats
 
-<div align="center">
-![Public Repos](https://img.shields.io/badge/Public_Repos-REPLACE_COUNT-58A6FF?style=flat&logo=github)
-![Followers](https://img.shields.io/github/followers/Yousefa7medmaher?style=flat&color=58A6FF&label=Followers&logo=github)
-![Public Gists](https://img.shields.io/badge/Public_Gists-REPLACE_COUNT-58A6FF?style=flat&logo=github)
- 
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak stats" height="180"/>
 </div>
