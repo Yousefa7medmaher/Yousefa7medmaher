@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d,30363d,58A6FF&height=160&section=header&text=Yousef%20Ahmed%20Maher&fontSize=42&fontColor=58A6FF&fontAlignY=35&desc=DevOps%20Engineer%20|%20AWS%20Certified%20Cloud%20Practitioner&descSize=16&descFontColor=8b949e&descAlignY=58" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/banner.gif" width="100%" alt="Yousef Ahmed Maher"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=760&height=50&lines=%3E+Automate+everything.;%3E+Break+nothing.;%3E+Ship+fast.;%3E+I+learn%2C+I+grow%2C+I+adapt%2C+I+never+stop." alt="typing"/>
 </div>
 
 <br>
@@ -8,24 +12,24 @@
 
 **DevOps Engineer · AWS Certified Cloud Practitioner · Open Source Contributor · Elswedy Polytechnic · Egypt**
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0d1117?style=flat&logo=github&logoColor=58A6FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=58A6FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat&logo=kubernetes&logoColor=58A6FF)
-![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=flat&logo=nestjs&logoColor=E0234E)
-![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat&logo=apachekafka&logoColor=58A6FF)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat&logo=terraform&logoColor=58A6FF)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonaws&logoColor=58A6FF)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF2E97?style=flat-square&logo=amazonaws&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-0a0a12?style=flat-square&logo=github&logoColor=00F0FF)
+![Linux](https://img.shields.io/badge/Linux-0a0a12?style=flat-square&logo=linux&logoColor=00F0FF)
+![Docker](https://img.shields.io/badge/Docker-0a0a12?style=flat-square&logo=docker&logoColor=FF2E97)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a12?style=flat-square&logo=kubernetes&logoColor=00F0FF)
+![NestJS](https://img.shields.io/badge/NestJS-0a0a12?style=flat-square&logo=nestjs&logoColor=FF2E97)
+![Kafka](https://img.shields.io/badge/Kafka-0a0a12?style=flat-square&logo=apachekafka&logoColor=00F0FF)
+![Terraform](https://img.shields.io/badge/Terraform-0a0a12?style=flat-square&logo=terraform&logoColor=FF2E97)
+![AWS](https://img.shields.io/badge/AWS-0a0a12?style=flat-square&logo=amazonaws&logoColor=00F0FF)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@JooAhmeddev001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a12?style=flat-square&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/yousef-ahmed-maher-amin-272275279)
+[![YouTube](https://img.shields.io/badge/YouTube-0a0a12?style=flat-square&logo=youtube&logoColor=FF2E97)](https://www.youtube.com/@JooAhmeddev001)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/divider1.gif" width="100%"/>
 
-## About
+## ▓▒░ About
 
 ```yaml
 name:       Yousef Ahmed Maher
@@ -38,40 +42,39 @@ open_source: true
 motto:      "Automate everything. Break nothing. Ship fast."
 ```
 
----
+<img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/divider2.gif" width="100%"/>
 
-## Certifications
+## ▓▒░ Certifications
 
 🏅 **AWS Certified Cloud Practitioner (CLF-C02)**
 
----
+<img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/divider3.gif" width="100%"/>
 
-## Open Source
+## ▓▒░ Open Source
 
 🌱 Active open source contributor — collaborating on real-world repos, fixing issues, and improving docs/CI pipelines.
 Check my pinned repositories below for contributions and personal projects.
 
----
+<img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/divider1.gif" width="100%"/>
 
-## Tech Stack
+## ▓▒░ Tech Stack
 
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linux,bash,python,git,githubactions,docker,kubernetes,nestjs,kafka,aws,terraform,ansible,postgresql,mongodb&theme=dark&perline=7" alt="Tech Stack"/></a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/divider2.gif" width="100%"/>
 
-## GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak stats" height="180"/>
-</div>
-
-
+## ▓▒░ GitHub Stats
 
 <div align="center">
-  <sub>automate everything · break nothing · ship fast</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousefa7medmaher&theme=dark&hide_border=false&background=0a0a12&stroke=FF2E97&ring=00F0FF&fire=FF2E97&currStreakNum=00F0FF&currStreakLabel=FF2E97&sideNums=FF2E97&sideLabels=00F0FF&dates=8b949e" alt="streak stats" height="180"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,21262d,30363d,58A6FF&height=100&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+  <sub><code>automate everything · break nothing · ship fast</code></sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/Yousefa7medmaher/Yousefa7medmaher/main/footer.gif" width="100%"/>
